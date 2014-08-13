@@ -104,16 +104,6 @@ while check:
             setReg(2,32,((0%256),(0>>8)))
             
         # pull the next event - if not used the joystick will get ahead of the program
-
-
-
-        # define the forward and reverse tilt
-
-        # define the left and right pan
-
-        # define the gripper movement
-        
-        
         pygame.event.pump()
 
 
